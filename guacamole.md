@@ -4,4 +4,4 @@
 * lime
 * salt
 ### Instructions
-
+* cut open the avocado
