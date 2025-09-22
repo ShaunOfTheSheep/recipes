@@ -5,3 +5,4 @@
 * salt
 ### Instructions
 * cut open the avocado
+* grind the avocado
